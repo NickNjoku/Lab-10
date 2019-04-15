@@ -21,7 +21,7 @@ public abstract class Triangle extends Polygon
 	 */
 	public Triangle(Point pointLB, Color color, boolean fill) 
 	{
-		super(color, filled);
+		super(color, fill);
         
         location = new Point[3];
         

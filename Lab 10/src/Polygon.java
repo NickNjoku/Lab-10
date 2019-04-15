@@ -14,19 +14,5 @@ public abstract class Polygon extends Shape {
 		
 	}
 	
-	public Color getColor()
-	{
-		
-	}
-	
-	public boolean isFilled()
-	{
-		
-	}
-	
-	public Point[] getLocation()
-	{
-		
-	}
 
 }
